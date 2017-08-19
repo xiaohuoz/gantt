@@ -134,7 +134,7 @@ export default function Bar(gt, task) {
 		setup_click_event();
 		show_details();
 		bind_resize();
-		bind_drag();
+		//bind_drag();
 		bind_resize_progress();
 	}
 
